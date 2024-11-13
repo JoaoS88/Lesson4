@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\proj\\Lesson4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C60776C-9139-4528-86D1-37A0DD4EA92C}|Module4_Task1\\Module4_Task1.vcxproj|J:\\proj\\Lesson4\\Module4_Task1\\userGullible.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C60776C-9139-4528-86D1-37A0DD4EA92C}|Module4_Task1\\Module4_Task1.vcxproj|solutionrelative:Module4_Task1\\userGullible.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4170C689-D735-49C5-B962-1D9BC2E8DDA2}|Module4_Task3\\Module4_Task3.vcxproj|J:\\proj\\Lesson4\\Module4_Task3\\alphabetReaderAndToUpperCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4170C689-D735-49C5-B962-1D9BC2E8DDA2}|Module4_Task3\\Module4_Task3.vcxproj|solutionrelative:Module4_Task3\\alphabetReaderAndToUpperCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85C9DC5-84DE-4FB5-88A2-C495867F01EF}|Module4_Task2\\Module4_Task2.vcxproj|J:\\proj\\Lesson4\\Module4_Task2\\arrayStatistics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E85C9DC5-84DE-4FB5-88A2-C495867F01EF}|Module4_Task2\\Module4_Task2.vcxproj|solutionrelative:Module4_Task2\\arrayStatistics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userGullible.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson4\\Module4_Task1\\userGullible.cpp",
+              "RelativeDocumentMoniker": "Module4_Task1\\userGullible.cpp",
+              "ToolTip": "J:\\proj\\Lesson4\\Module4_Task1\\userGullible.cpp",
+              "RelativeToolTip": "Module4_Task1\\userGullible.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:43:23.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alphabetReaderAndToUpperCase.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson4\\Module4_Task3\\alphabetReaderAndToUpperCase.cpp",
+              "RelativeDocumentMoniker": "Module4_Task3\\alphabetReaderAndToUpperCase.cpp",
+              "ToolTip": "J:\\proj\\Lesson4\\Module4_Task3\\alphabetReaderAndToUpperCase.cpp",
+              "RelativeToolTip": "Module4_Task3\\alphabetReaderAndToUpperCase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:40:12.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arrayStatistics.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson4\\Module4_Task2\\arrayStatistics.cpp",
+              "RelativeDocumentMoniker": "Module4_Task2\\arrayStatistics.cpp",
+              "ToolTip": "J:\\proj\\Lesson4\\Module4_Task2\\arrayStatistics.cpp",
+              "RelativeToolTip": "Module4_Task2\\arrayStatistics.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:35:57.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
